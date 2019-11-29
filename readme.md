@@ -12,6 +12,8 @@ php artisan migrate
 
 php artisan db:seed --class=ClienteSeeder
 
+Você verá no banco de dados que foi adicionado clientes e pedidos já relacionados com clientes existentes!
+
 
 ** Comandos para criar do início
 
